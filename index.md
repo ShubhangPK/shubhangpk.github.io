@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Glad to meet you, I'm Shubhang Kaushik 
 
-You can use the [editor on GitHub](https://github.com/ShubhangPK/shubhangpk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Currently working in the Open Source Software team @ Arm on the development of Board Support Packages for various Media Platforms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionate about developing solutions contributing to the advancements in Mobile Computing with Artifitial Intelligence capabilities. 
+
+Honing my DSA skills in programming languages - C, C++, Java, Bash, Python ; along with a strong experience of working on kernel/hypervisor , Android/Distros OS Stack, Fixed Virtual Platforms, BSP, etc., I would be a great fit to work alongside with in your team.  
+
+Interests - Tech Stuff, Adventure Sports, General Blogs, Stock Market Trends  
 
 ### Markdown
 
