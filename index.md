@@ -14,7 +14,7 @@ Honing my DSA skills in programming languages - C, C++, Java, Bash, Python ; alo
 Interests - Tech Stuff, Adventure Sports, General Blogs, Stock Market Trends  
 
 ```
-LinkedIn - https://www.linkedin.com/in/shubhangpk/
 
+Connect with me on LinkedIn here - https://www.linkedin.com/in/shubhangpk/
 
 
