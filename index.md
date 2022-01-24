@@ -1,6 +1,8 @@
 ## Glad to meet you, I'm Shubhang Kaushik 
 
-Currently working in the Open Source Software team @ Arm on the development of Board Support Packages for various Media Platforms.
+Currently I am working at Arm in the Open Source Software Platforms team - https://www.arm.com/
+
+I'm keen on pursuing research and development on the technologies driving the innovation for the future.
 
 
 ### Insight
